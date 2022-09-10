@@ -131,4 +131,30 @@
         <tag>导航</tag>
       </tags>
   </entry>
+  <entry>
+    <title>wps笔试</title>
+    <url>/2022/09/10/%E7%AC%94%E7%BB%8F/wps%E7%AC%94%E8%AF%95/</url>
+    <content><![CDATA[<span id="more"></span>
+<h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><ol>
+<li>赛码系统、2h、8简答(40分) + 4算法(60分)</li>
+<li>吐槽：那个算法题算是怎么回事？用记事本写，没有用例测试，更不用谈什么通过率了，为啥复制粘贴也不能用(复制粘贴上面写的的内容)，明明有更成熟的笔试方式，为什么偏要用这个呢？然后让员工手动改？……</li>
+</ol>
+<h3 id="简答题："><a href="#简答题：" class="headerlink" title="简答题："></a>简答题：</h3><p>考察了“css盒模型的定义、CORS、前端的模块化规范、说一说事件捕获和冒泡”，还有四个忘记了，就是一些前端的基础概念。</p>
+<h3 id="编程题"><a href="#编程题" class="headerlink" title="编程题"></a>编程题</h3><ul>
+<li>因为不能用本地的IDE，也没有留下代码。</li>
+</ul>
+<ol>
+<li>将数字每隔3位用’,’隔开，如“123456” —— “123,456”</li>
+<li>写一个函数将数组去重，至少写三种写法</li>
+<li>给一串数字组成的字符串，以数组形式返回全部正确的组成ip地址的组合方式。</li>
+<li>俩字符串，如s1、s2的长度相同，仅仅通过交换s2的字符以实现s1 === s2，求返回最少的交换次数k。如 s1 = ‘abc’，s2 = ‘bca’, 则返回k为2。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>笔经</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+      </tags>
+  </entry>
 </search>
