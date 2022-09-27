@@ -205,14 +205,13 @@
     <title>vue3.2</title>
     <url>/2022/09/27/vue3-2/</url>
     <content><![CDATA[ <span id="more"></span>
-
 <h2 id="五大新特性："><a href="#五大新特性：" class="headerlink" title="五大新特性："></a>五大新特性：</h2><ol>
-<li>新的单文件组件特性：<script setup>语法糖、<style> v-bind新特性</li>
+<li>新的单文件组件特性：<code>&lt;script setup&gt;语法糖、&lt;style&gt; v-bind新特性</code></li>
 <li>Web Components</li>
 <li>性能提升</li>
 <li>服务端渲染</li>
 <li>Effect 作用域API</li>
-<li><script setup> + TS + Volar === 真香</li>
+<li><code>&lt;script setup&gt; + TS + Volar === 真香</code></li>
 </ol>
 <h3 id="前置知识"><a href="#前置知识" class="headerlink" title="前置知识"></a>前置知识</h3><ul>
 <li>因为学习VUE3.2需要有vue3.0的前置知识，所以在学习过程中，我会把涉及到的前缀知识补充在这里</li>
